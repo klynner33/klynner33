@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Kate. Welcome to my Github!</h1>
-<h2 align="center">I am a Minneapolis based front-end software engineer.</h3>
+<h2 align="center">I am a Minneapolis based full-stack software engineer.</h3>
 
 See my website for more information!
 <!-- See [my website](https://shawncharles.com) for more information! -->

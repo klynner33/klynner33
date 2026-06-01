@@ -49,6 +49,16 @@ See my website for more information!
     />
   </a>
 </td>
+<td>
+  <a href="https://vercel.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
+      alt="Vercel"
+      width="70"
+      height="70"
+    />
+  </a>
+</td>
     </tr>
   </table>
   <!--

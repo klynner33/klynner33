@@ -28,6 +28,27 @@ See my website for more information!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> 
   </a> 
      </td> 
+      <td>
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      alt="Next.js"
+      width="70"
+      height="70"
+    />
+  </a>
+</td>
+
+<td>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+      alt="Tailwind CSS"
+      width="70"
+      height="70"
+    />
+  </a>
+</td>
     </tr>
   </table>
   <!--

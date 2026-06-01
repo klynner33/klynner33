@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Kate. Welcome to my Github!</h1>
-<h2 align="center">I am a Front End Engineer who is passionate about continuous learning and exploring new technologies which I can leverage to solve real-life problems. </h2>
+<h2 align="center">I am a Software Developer who is passionate about continuous learning and exploring new technologies which I can leverage to solve real-life problems. </h2>
 
 See my website for more information!
 <!-- See [my website](https://shawncharles.com) for more information! -->
